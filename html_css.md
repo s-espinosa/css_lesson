@@ -1,3 +1,7 @@
+# HTML & CSS
+
+---
+
 # Warmup
 
 * What is Rails?
@@ -16,7 +20,7 @@
 
 # Where's the HTML?
 
-Review with a partner in Task Manager:
+Review with a partner in a Rails project:
 
 * `views`
 * `application.html.erb`
@@ -26,11 +30,7 @@ Review with a partner in Task Manager:
 
 # Dog Party
 
----
-
-# What is CSS?
-
-Pair share
+Let's put some raw HTML into a view.
 
 ---
 
@@ -41,6 +41,20 @@ Read with a partner:
 * `app/assets/stylesheets/application.css`
 
 Share
+
+---
+
+# Box Model
+
+![inline](./images/box.png)
+
+---
+
+# Block vs. Inline
+
+* Block: div, p, h1, table, ol, ul
+* Inline: span, em, bold
+* img has characteristics of both
 
 ---
 
@@ -70,11 +84,18 @@ Share
 
 # A Note on Debugging
 
-```
+```css
 * {
   border: 1px solid red;
 }
 ```
+
+---
+
+# Other tips
+
+* Simple and understated is a great place to start.
+* Steal, but don't be too finicky.
 
 ---
 
@@ -88,9 +109,4 @@ With a partner
 * See if you can use CSS to match your layout
 
 (it's a lot of trial and error)
-
-
-
-
-
 
